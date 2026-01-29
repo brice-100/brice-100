@@ -3,7 +3,8 @@
 🎓 **Computer Science Student**  
 💡 Passionate, motivated, and curious about Information Technology  
 🚀 Always eager to **learn**, **build skills**, and **collaborate on real-world projects**
-
+ https://brice-100.github.io/brice-100/
+ [🔗 Voir mon portfolio](https://brice-100.github.io)
 ---
 
 ## 🧑‍💻 About Me
