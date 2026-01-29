@@ -22,7 +22,7 @@
 - 🧠 I enjoy understanding **how systems work**, not just using them
 - 🤝 Open to collaboration, teamwork, and learning from others
 - 🌱 Constantly improving my technical and professional skills
-https://brice-100.github.io/brice-100/
+-  https://brice-100.github.io/brice-100/
 ---
 
 ## 🌐 Connect With Me
