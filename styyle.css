@@ -1,0 +1,120 @@
+/* ===== GLOBAL ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+/* ===== HERO ===== */
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.hero h1 {
+  font-size: 2.4rem;
+  margin-bottom: 15px;
+}
+
+.hero span {
+  color: #36bcf7;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+/* ===== TYPING ANIMATION ===== */
+.typing {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #36bcf7;
+  width: 0;
+  animation: typing 4s steps(40, end) forwards,
+             blink 0.7s infinite;
+}
+
+@keyframes typing {
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+/* ===== SECTIONS ===== */
+.section {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.section h2 {
+  margin-bottom: 15px;
+  color: #36bcf7;
+}
+
+.section ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+/* ===== SOCIALS ===== */
+.socials {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.socials a {
+  text-decoration: none;
+  color: #36bcf7;
+  border: 1px solid #36bcf7;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.socials a:hover {
+  background: #36bcf7;
+  color: #000;
+}
+
+/* ===== SKILLS ===== */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skills span {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  text-align: center;
+  padding: 30px 10px;
+  background: rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+}
