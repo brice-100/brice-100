@@ -80,15 +80,15 @@
 ---
 
 ## 📊 GitHub Statistics (Live & Animated)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brice-100&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brice-100&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=brice-100&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brice-100&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
