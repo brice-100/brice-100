@@ -54,7 +54,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### 🌐 Web & Markup
