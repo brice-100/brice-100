@@ -54,7 +54,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### 🌐 Web & Markup
@@ -69,12 +69,12 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 ### 🎨 Design & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,gimp,framer" />
+  <img src="https://skillicons.dev/icons?i=canva" />
 </p>
 
 ---
@@ -98,13 +98,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
 
-## 👀 Profile Visits
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=brice-100&label=Profile%20Views&color=12&icon=5&pretty=true"/>
-</p>
 
 ---
 
