@@ -49,34 +49,46 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### 🌐 Web & Markup
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,latex" />
+  <img src="https://skillicons.dev/icons?i=html,css,latex,nextjs" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,latex,react,nextjs" />
+</p>
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,redis" />
+</p>
+
+### 🔄 Async Tasks & Emailing
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white"/>
+</p>
+
+### 📐 Modeling & Design
+<p>
+  <img src="https://img.shields.io/badge/Astah_UML-1E88E5?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=canva" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
-
-### 🎨 Design & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=canva" />
-</p>
-
 ---
 
 ## 📊 GitHub Statistics (Live & Animated)
