@@ -58,9 +58,6 @@
 
 ### 🌐 Web & Markup
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,latex,nextjs" />
-</p>
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,latex,react,nextjs" />
 </p>
 ### ⚙️ Backend & Frameworks
